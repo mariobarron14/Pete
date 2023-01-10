@@ -1,1 +1,1 @@
-# pete
+# pete thinkful website
